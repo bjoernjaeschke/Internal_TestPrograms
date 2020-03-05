@@ -1,8 +1,3 @@
 Dies ist $ein Test um $zu
 sehen $ob es geht $oder
 auch nicht $so
-
-
-
-
-
