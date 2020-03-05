@@ -1,3 +1,5 @@
+#include "tabellenfunktionen.h"
+
 int f0(File * pOutputFile, char * pParameter) {
 	return 0;
 }
