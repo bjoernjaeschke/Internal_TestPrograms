@@ -2,17 +2,15 @@
 #ifndef TABELLENFUNKTIONEN_H
 #define TABELLENFUNKTIONEN_H
 
-#include "stdafx.h"
-
-int f0(File * pOutputFile, char * pParameter);
-int f1(File * pOutputFile, char * pParameter);
-int f2(File * pOutputFile, char * pParameter);
-int f3(File * pOutputFile, char * pParameter);
-int f4(File * pOutputFile, char * pParameter);
-int f5(File * pOutputFile, char * pParameter);
-int f6(File * pOutputFile, char * pParameter);
-int f7(File * pOutputFile, char * pParameter);
-int f8(File * pOutputFile, char * pParameter);
-int f9(File * pOutputFile, char * pParameter);
+int f0(FILE * pOutputFile, char * pParameter);
+int f1(FILE * pOutputFile, char * pParameter);
+int f2(FILE * pOutputFile, char * pParameter);
+int f3(FILE * pOutputFile, char * pParameter);
+int f4(FILE * pOutputFile, char * pParameter);
+int f5(FILE * pOutputFile, char * pParameter);
+int f6(FILE * pOutputFile, char * pParameter);
+int f7(FILE * pOutputFile, char * pParameter);
+int f8(FILE * pOutputFile, char * pParameter);
+int f9(FILE * pOutputFile, char * pParameter);
 
 #endif
