@@ -1,6 +1,6 @@
-#pragma once
 #ifndef TABELLENFUNKTIONEN_H
 #define TABELLENFUNKTIONEN_H
+#include <stdio.h>
 
 int f0(FILE *pOutputFile, char *pParameter);
 int f1(FILE *pOutputFile, char *pParameter);
